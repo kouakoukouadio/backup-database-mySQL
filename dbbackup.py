@@ -14,7 +14,7 @@ DB_NAME = 'serv_web' #le nom de la Database à sauvegarder
 BACKUP_PATH = '/backup/dbbackup/' #Le chemin du dossier de sauvegarde
 
 #Création du dossier de sauvegarde avec la date et l'heure actuelle "10/04/2021".
-my_date= date.today() #le nom du dossier de sauvegarde
+my_date= date.today()
 today=calendar.day_name[my_date.weekday()]
 
 TODAYBACKUPPATH = BACKUP_PATH + today+'/' #Le chemin du dossier et son nom
