@@ -1,3 +1,15 @@
+#!/usr/bin/python
+
+###########################################################
+# This python script is used for mysql database backup
+# using mysqldump and tar utility.
+# Written by :Kouadio Kouakou Donatien
+# Created date: Aout 03, 2021
+# Last modified: Aout  06, 2021
+# Tested with : Python 3
+# Script Revision: 1.4
+##########################################################
+
 # Importation des bibliothèques de Python
 
 import os #module permettant de manipuler les chmins de fichier
