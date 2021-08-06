@@ -6,7 +6,7 @@
 # Written by :Kouadio Kouakou Donatien
 # Created date: Aout 03, 2021
 # Last modified: Aout  06, 2021
-# Tested with : Python 3
+# Tested with : Python 3 on linux debian 9
 # Script Revision: 1.4
 ##########################################################
 
@@ -72,3 +72,6 @@ else:
 
 print ("script de sauvegarde terminé")
 print ("Vos sauvegardes ont été créées dans le repertoire '" + TODAYBACKUPPATH + "' annuaire")
+
+
+
